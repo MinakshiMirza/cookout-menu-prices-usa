@@ -8,7 +8,7 @@ Here you’ll find details on:
 - Burger, chicken, BBQ, and hot dog prices  
 - Seasonal updates and limited-time offers
 
-📌 Visit the full menu with updated prices [here](https://www.mycookoutmenu.com).
+📌  [Visit the full cookout menu with updated prices](https://www.mycookoutmenu.com).
 
 ---
 
